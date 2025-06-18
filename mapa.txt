@@ -1,0 +1,59 @@
+"                                                     _____________________________                                               ".toCharArray(),
+"                                         |                             |                                              ".toCharArray(),
+"                                         |                             |                                              ".toCharArray(),
+"                                         |    B         7        C     |                                              ".toCharArray(),
+"                                         |                             |                                              ".toCharArray(),
+"                                         |                             |                                              ".toCharArray(),
+"       __________    ____________________|                             |___________________                           ".toCharArray(),
+"      |          |  |                                                                      |                          ".toCharArray(),
+"      |          ||||                                                                      |                          ".toCharArray(),
+"      |     0                                                                              |   _____                  ".toCharArray(),
+"      |          ||||                  E                                                   |  |     |                 ".toCharArray(),
+"      |          |  |                                                         A            ||||     |                 ".toCharArray(),
+"      |          |  |                                                                            D  |                 ".toCharArray(),
+"      |          |  |                                                                      ||||     |    __________   ".toCharArray(),
+"      |          |  |                                                                      |  |     |   |          |  ".toCharArray(),
+"      |    L     |  |                                                                      |  |     |||||          |  ".toCharArray(),
+"      |__________|  |                                                                      |  |              K     |  ".toCharArray(),
+"                    |                                                                      |  |     |||||          |  ".toCharArray(),
+"          __________|                                  X                                   |  |     |   |__________|  ".toCharArray(),
+"         |          |                                                                      |  |     |                 ".toCharArray(),
+"         |          |                                                                      |  |     |                 ".toCharArray(),
+"         |                                                                                 |  |     |    __________   ".toCharArray(),
+"         |     F                   Y                                                       |  |     |   |          |  ".toCharArray(),
+"         |                                                                    M            |  |  1  |||||          |  ".toCharArray(),
+"         |          |                                                                      |  |               I    |  ".toCharArray(),
+"         |__________|                                                                      |  |     |||||          |  ".toCharArray(),
+"                    |________________    __________________________    ___________    _____|  |_____|   |__________|  ".toCharArray(),
+"                                    ||  ||                        ||  ||         ||  ||                               ".toCharArray(),
+"                                  __||  ||__                    __||  ||__     __||  ||_____________                  ".toCharArray(),
+"                                 |          |                  |          |   |                     |                 ".toCharArray(),
+"                     _________   |          |                  |          |   |                     |                 ".toCharArray(),
+"                    |         |  |          |                  |          |   |             3       |                 ".toCharArray(),
+"                    |    N    |  |          |                  |          |   |                     |                 ".toCharArray(),
+"                    |         |  |          |                  |          |   |                     |                 ".toCharArray(),
+"                    |         ||||          |                  |          |   |                     |                 ".toCharArray(),
+"                    |         ||||          |                  |          |   |                     |                 ".toCharArray(),
+"                    |                       |                  |          |   |       H             |                 ".toCharArray(),
+"                    |         ||||          |                  |          |   |                     |                 ".toCharArray(),
+"                    |         |  |          |                  |          |   |                     |                 ".toCharArray(),
+"                    |         |  |          |                  |          |   |_____________________|                 ".toCharArray(),
+"                    |    O    |  |          |    ___________   |          |                                           ".toCharArray(),
+"                    |_________|  |          |   |           |  |          |                                           ".toCharArray(),
+"                                 |          |||||           ||||          |                                           ".toCharArray(),
+"                                 |                                   R    |                                           ".toCharArray(),
+"                                 |          |||||     P     ||||          |                                           ".toCharArray(),
+"                                 |__________|   |___________|  |__________|                                           ".toCharArray()
+
+
+BONMY  --> Bonny = B
+01234
+
+CHIKA  --> Chica = C
+01234
+
+F0X1   --> Foxy = X
+0123
+
+7RE3DL  --> Freedy = F
+012345
